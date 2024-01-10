@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo" />
