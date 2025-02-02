@@ -10,7 +10,7 @@
 
 <h4>Welcome to my coding playground! I'm Kerim, a web developer with a passion for crafting amazing web experiences.</h4>
 
-📫 How to reach me **kmyratlyev@gmail.com**
+📫 How to reach me **kmyratlyev23@gmail.com**
 
 ## 🛠️ Languages and Tools
 
